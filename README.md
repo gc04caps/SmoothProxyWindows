@@ -32,7 +32,7 @@ Bored database guy who wanted to learn some PHP and stuff.
     1. You can minimize the window, but it has to stay open to re-auth every 4 hours. 
 
 To connect SmoothProxy with an IPTV player of your choosing, use the following URLs:
-- Playlist URL: http://IPOFYOURSERVER/playlist.m3u8
+- Playlist URL: http://SERVER_IP/playlist/sstv_dynamic.m3u8
 - Fog's EPG URL: http://sstv.fog.pt/feed.xml
 
 ### Expert Mode:
